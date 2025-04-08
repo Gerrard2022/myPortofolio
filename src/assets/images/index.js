@@ -1,15 +1,15 @@
 import hero from './hero.jpg'
-import meta from './meta.png'
-import shopify from './shopify.png'
-import starbucks from './starbucks.png'
-import tesla from './tesla.png'
 import logo from './logo.svg'
+import igiti from './igiti.png';
+import lecro from './lecro.svg';
+import hubin from './hub-in.png';
+import shesco from './shesco.png';
 
 export {
     hero,
-    meta,
-    shopify,
-    starbucks,
-    tesla,
-    logo
+    logo,
+    igiti,
+    lecro,
+    hubin,
+    shesco
 }
